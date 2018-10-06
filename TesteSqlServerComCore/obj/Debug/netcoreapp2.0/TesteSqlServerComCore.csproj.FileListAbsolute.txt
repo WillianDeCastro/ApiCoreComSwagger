@@ -1,0 +1,11 @@
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.deps.json
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.runtimeconfig.json
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.runtimeconfig.dev.json
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.dll
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.csprojAssemblyReference.cache
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.AssemblyInfoInputs.cache
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.AssemblyInfo.cs
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.dll
+c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
