@@ -9,3 +9,14 @@ c:\users\user\source\repos\TesteSqlServerComCore\AspCoreComSqlServer\obj\Debug\n
 c:\users\user\source\repos\TesteSqlServerComCore\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.pdb
 c:\users\user\source\repos\TesteSqlServerComCore\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.dll
 c:\users\user\source\repos\TesteSqlServerComCore\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.pdb
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.csprojAssemblyReference.cache
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.csproj.CoreCompileInputs.cache
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.AssemblyInfoInputs.cache
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.AssemblyInfo.cs
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.dll
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\obj\Debug\netcoreapp2.0\AspCoreComSqlServer.pdb
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.deps.json
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.runtimeconfig.json
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.runtimeconfig.dev.json
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.dll
+C:\GIT\ApiCoreComSwagger\AspCoreComSqlServer\bin\Debug\netcoreapp2.0\AspCoreComSqlServer.pdb

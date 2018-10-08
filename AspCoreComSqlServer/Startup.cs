@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AspCoreComSqlServer.Contexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -33,6 +35,10 @@ namespace AspCoreComSqlServer
             {
                 s.SwaggerDoc("v1", new Info { Title = "Minha Api", Version = "v1" });
             });
+
+            string minhaCon = @"server=DESKTOP-NQP6NJ3\WCASTRO;DataBase=WEBAPIS;Trusted_Connection=true;";
+
+            services.AddDbContext<ProductContext>(opt => opt.UseSqlServer(minhaCon));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

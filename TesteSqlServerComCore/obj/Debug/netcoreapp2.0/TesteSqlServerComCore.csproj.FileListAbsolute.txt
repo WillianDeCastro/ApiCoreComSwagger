@@ -9,3 +9,14 @@ c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug
 c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
 c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.dll
 c:\users\user\source\repos\TesteSqlServerComCore\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.deps.json
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.runtimeconfig.json
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.runtimeconfig.dev.json
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.dll
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\bin\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.csprojAssemblyReference.cache
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.csproj.CoreCompileInputs.cache
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.AssemblyInfoInputs.cache
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.AssemblyInfo.cs
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.dll
+C:\GIT\ApiCoreComSwagger\TesteSqlServerComCore\obj\Debug\netcoreapp2.0\TesteSqlServerComCore.pdb
